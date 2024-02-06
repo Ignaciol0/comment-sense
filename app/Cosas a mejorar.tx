@@ -1,0 +1,9 @@
+SelectorProductos.tsx
+
+Elementos se cambian con el sort del orden que deberia ser el determindado.
+Encontrar la forma de acomodar solo tres elementos por linea de producto. Nested maps? Juntar los productos en order de 3 en 3?
+
+app.billing.tsx
+
+Esteticamente arreglar el LineChart y quitar la cosas que causan errores
+Esteticamente arreglar toda la página web
